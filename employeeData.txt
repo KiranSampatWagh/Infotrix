@@ -1,0 +1,4 @@
+Id = 1 : Name = Kiran : Salary = 40000 : City = Satara : Age = 24.
+Id = 2 : Name = Suraj : Salary = 25000 : City = Satara : Age = 20.
+Id = 3 : Name = Rohan : Salary = 35000 : City = Satara : Age = 23.
+Id = 4 : Name = Rushi : Salary = 29000 : City = Satara : Age = 23.
